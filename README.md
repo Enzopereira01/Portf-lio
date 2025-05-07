@@ -82,13 +82,22 @@ Durante esse projeto tive que utilizar de comunicação , para conseguir entrar 
 
 ### Segundo Semestre (2023-2)
 
+
 [Git](https://github.com/C0demain/ParrotAI)
+
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
-Java
-MySQL
-Gradle
+* Java - 
+* MySQL - 
+* Gradle - 
+* Excel - 
+* Power Point - 
+* Trello - 
+* Figma - 
+* Eclipse - 
+* Canva - 
+
 
 #### Contribuições Pessoais
 
@@ -99,10 +108,20 @@ Executei as seguintes hard skills durante esse projeto:
 
 ### Terceiro Semestre (2024-1)
 
+
 [Git](https://github.com/C0demain/sales-dash)
+
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
+* NodeJS - 
+* React - 
+* TypeScript - 
+* PostgreSQL - 
+* Postman - 
+* Excel - 
+* Trello - 
+* Figma - 
 
 #### Contribuições Pessoais
 
@@ -117,6 +136,12 @@ Executei as seguintes hard skills durante esse projeto:
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
+* React  - 
+* TypeScript  - 
+* Mysql - 
+* Trello - 
+* Figma - 
+* Slack - 
 
 #### Contribuições Pessoais
 
@@ -131,6 +156,11 @@ Executei as seguintes hard skills durante esse projeto:
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
+* MongoDB - 
+* Figma - 
+* Slack - 
+* TypeScript - 
+* Reac - 
 
 #### Contribuições Pessoais
 

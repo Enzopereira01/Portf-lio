@@ -79,3 +79,62 @@ Executei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 Durante esse projeto tive que utilizar de comunicação , para conseguir entrar em contato com os outros desenvolvedores de minha equipe para principalmente perguntar como utilizava algumas tecnologias como o Bootstrap era utilizadas por conta de ser o primeiro contado que estava possuindo com o mesmo.
+
+### Segundo Semestre (2023-2)
+
+[Git](https://github.com/C0demain/ParrotAI)
+
+#### Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+Java
+MySQL
+Gradle
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+Executei as seguintes hard skills durante esse projeto:
+
+#### Soft Skills
+
+### Terceiro Semestre (2024-1)
+
+[Git](https://github.com/C0demain/sales-dash)
+
+#### Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+Executei as seguintes hard skills durante esse projeto:
+
+#### Soft Skills
+
+### Quarto Semestre (2024-2)
+
+[Git](https://github.com/DriftOps/API-IV)
+
+#### Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+Executei as seguintes hard skills durante esse projeto:
+
+#### Soft Skills
+
+### Quinto Semestre (2025-1)
+
+[Git](https://github.com/DriftOps/API-V)
+
+#### Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+Executei as seguintes hard skills durante esse projeto:
+
+#### Soft Skills

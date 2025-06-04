@@ -82,27 +82,32 @@ Durante esse projeto tive que utilizar de comunicação , para conseguir entrar 
 
 ### Segundo Semestre (2023-2)
 
+O projeto desenvolvido na segunda semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araújo Bertoti, que assumiu o papel de cliente final.
 
-[Git](https://github.com/C0demain/ParrotAI)
+O problema apresentado foi na facilitação da leitura de arquivos que possuia algum tipo de texto, para o usuário que está utilizando o mesmo encontrar algum assunto ou tópico em especifico.
+
+Solução, foi na criação de um chatbot nomeado de Parrot AI, utilizando a biblioteca langchain4j. A função do mesmo é a leituras de multiplos arquivos que o usuário decidir inserir no Parrot AI, para em seguida ir na parte do chatbot de perguntar e repostas possindo a base de resposta com base nos arquivos inseridos.
+
+* [Git](https://github.com/C0demain/ParrotAI)
 
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
-* Java - 
-* MySQL - 
-* Gradle - 
-* Excel - 
-* Power Point - 
-* Trello - 
-* Figma - 
-* Eclipse - 
-* Canva - 
-
+* Java - Linguagem de programação ensinada durante o segundo semestre e obrigatório neste projeto;
+* MySQL - Banco de dados relacional para armazenar as informações do usuário;
+* Gradle - Ferramenta para gerenciamento das dependencias;
+* Trello - Ferramenta de gerenciamento de tarefas baseada em quadros Kanban.
+* Figma - Ferramenta online para design e prototipação de interfaces de usuário.
+* Eclipse - IDE para desenvolvimento com java;
 
 #### Contribuições Pessoais
 
 #### Hard Skills
 Executei as seguintes hard skills durante esse projeto:
+
+Java - Uso com ajuda
+Eclipse - Uso com ajuda
+MySQL - Uso com ajuda
 
 #### Soft Skills
 

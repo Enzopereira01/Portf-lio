@@ -49,7 +49,7 @@ O problema apresentado consistia na apresentação de uma maneira completa para 
 Como solução, foi a criação de um site informativo que apresentava em um trilha para quem não possuía nenhum conhecimento, e para as pessoas que já o possuíam poderia ir para o local de interesse em específico.
 
 
-[Git](https://github.com/ColossusAPI/ScrumAcademy)
+* [Git](https://github.com/ColossusAPI/ScrumAcademy)
 
 
 #### Tecnologias Utilizadas
@@ -105,16 +105,16 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Hard Skills
 Executei as seguintes hard skills durante esse projeto:
 
-Java - Uso com ajuda
-Eclipse - Uso com ajuda
-MySQL - Uso com ajuda
+* Java - Uso com ajuda
+* Eclipse - Uso com ajuda
+* MySQL - Uso com ajuda
 
 #### Soft Skills
 
 ### Terceiro Semestre (2024-1)
 
 
-[Git](https://github.com/C0demain/sales-dash)
+* [Git](https://github.com/C0demain/sales-dash)
 
 
 #### Tecnologias Utilizadas
@@ -137,7 +137,7 @@ Executei as seguintes hard skills durante esse projeto:
 
 ### Quarto Semestre (2024-2)
 
-[Git](https://github.com/DriftOps/API-IV)
+* [Git](https://github.com/DriftOps/API-IV)
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
@@ -157,7 +157,7 @@ Executei as seguintes hard skills durante esse projeto:
 
 ### Quinto Semestre (2025-1)
 
-[Git](https://github.com/DriftOps/API-V)
+* [Git](https://github.com/DriftOps/API-V)
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:

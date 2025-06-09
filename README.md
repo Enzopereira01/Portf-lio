@@ -1,5 +1,6 @@
 # Enzo Sidney Pereira
-![Enzo Sidney Pereira](/image/Enzo.jpg?raw=true)
+
+<img src="image/Enzo.jpg" alt="Enzo Sidney Pereira" width="300"/>
    
 Meu nome é Enzo Sidney Pereira e tenho 21 anos. Eu iniciei os meus estudos na área de computação no ano de 2023 na minha entrada no curso de Análise e Desenvolvimento de Sistemas pela Fatec.
 
@@ -229,4 +230,4 @@ Executei as seguintes hard skills durante esse projeto:
 
 ### Soft Skills
 
-Poderia mencionar principalmente na área de Product Owner, por entrar em contato com o cliente para verificar se os nossos projetos e ideias estavam de acordo com o que eles esperavam. Como, por exemplo, como deveria ser realizado o envio de comprovante com os valores limites, se era normalizado e pré-determinado dependendo de qual tipo de despesa era.
+Atuei principalmente na função de Product Owner, mantendo contato direto com o cliente para garantir que nossos projetos e propostas estivessem alinhados às expectativas. Um exemplo disso foi a validação do processo de envio de comprovantes, verificando se os valores limites estavam padronizados e previamente definidos conforme o tipo de despesa.
